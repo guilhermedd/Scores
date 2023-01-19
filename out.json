@@ -1,0 +1,2018 @@
+[
+    {
+        "Job_id": 0,
+        "makespan_function": 1106239.0333210002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 1,
+        "makespan_function": 1106066.0921210002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 2,
+        "makespan_function": 1105895.2903210002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 3,
+        "makespan_function": 1105635.7364790002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 4,
+        "makespan_function": 1105340.8423020002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 5,
+        "makespan_function": 1105071.1491350003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 6,
+        "makespan_function": 1104799.4986950003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 7,
+        "makespan_function": 1104414.2889780002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 8,
+        "makespan_function": 1103920.2908690004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 11,
+        "makespan_function": 1102770.3370040003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 10,
+        "makespan_function": 1103365.5004750004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 12,
+        "makespan_function": 1102232.2617920004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 13,
+        "makespan_function": 1101714.0915680004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 14,
+        "makespan_function": 1101089.6230900004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 15,
+        "makespan_function": 1100344.9976070004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 16,
+        "makespan_function": 1099642.0407120003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 17,
+        "makespan_function": 1098859.7987410002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 18,
+        "makespan_function": 1098065.6472940003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 19,
+        "makespan_function": 1097166.8426660004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 21,
+        "makespan_function": 1096172.3567880003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 23,
+        "makespan_function": 1094099.5001720001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 22,
+        "makespan_function": 1095141.5185770004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 24,
+        "makespan_function": 1093156.3276840001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 25,
+        "makespan_function": 1092031.705766,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 26,
+        "makespan_function": 1090909.581625,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 27,
+        "makespan_function": 1089626.127339,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 29,
+        "makespan_function": 1086756.6448850003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 28,
+        "makespan_function": 1088252.9877400002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 31,
+        "makespan_function": 1085265.8171670004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 32,
+        "makespan_function": 1083959.5764100004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 33,
+        "makespan_function": 1082690.3820490004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 35,
+        "makespan_function": 1079814.5037550004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 34,
+        "makespan_function": 1081317.3481650006,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 36,
+        "makespan_function": 1078483.9988400005,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 37,
+        "makespan_function": 1077019.7759570004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 39,
+        "makespan_function": 1075417.6553600004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 40,
+        "makespan_function": 1073965.5432040005,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 41,
+        "makespan_function": 1072515.6012120002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 42,
+        "makespan_function": 1070995.3418270003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 43,
+        "makespan_function": 1069394.1151600003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 44,
+        "makespan_function": 1067691.4853330003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 46,
+        "makespan_function": 1065917.1279290002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 47,
+        "makespan_function": 1064122.5208980003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 48,
+        "makespan_function": 1062230.5227440002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 49,
+        "makespan_function": 1060310.4239220002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 50,
+        "makespan_function": 1058317.487386,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 52,
+        "makespan_function": 1054045.9576050001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 51,
+        "makespan_function": 1056190.488597,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 53,
+        "makespan_function": 1051960.6885580001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 54,
+        "makespan_function": 1049739.813504,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 55,
+        "makespan_function": 1047523.868284,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 56,
+        "makespan_function": 1045226.40558,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 57,
+        "makespan_function": 1042864.7384690001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 58,
+        "makespan_function": 1040367.4362160001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 59,
+        "makespan_function": 1037889.9885190001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 60,
+        "makespan_function": 1035516.8643450001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 62,
+        "makespan_function": 1030739.8844930001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 61,
+        "makespan_function": 1033171.7288580001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 63,
+        "makespan_function": 1028409.2663650002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 65,
+        "makespan_function": 1026028.342985,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 66,
+        "makespan_function": 1023523.485352,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 67,
+        "makespan_function": 1020872.875891,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 68,
+        "makespan_function": 1018177.54159,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 69,
+        "makespan_function": 1015401.234824,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 71,
+        "makespan_function": 1012560.547698,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 73,
+        "makespan_function": 1009786.116408,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 74,
+        "makespan_function": 1006955.315076,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 75,
+        "makespan_function": 1004042.7813650001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 76,
+        "makespan_function": 1000964.831841,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 77,
+        "makespan_function": 998036.593186,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 78,
+        "makespan_function": 994949.547616,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 79,
+        "makespan_function": 991756.1179480001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 80,
+        "makespan_function": 988454.6166460001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 81,
+        "makespan_function": 985224.76684,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 82,
+        "makespan_function": 981849.3084310001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 83,
+        "makespan_function": 978490.2857070001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 84,
+        "makespan_function": 975039.255564,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 85,
+        "makespan_function": 971475.043834,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 87,
+        "makespan_function": 967925.7786539999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 88,
+        "makespan_function": 964347.5265139999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 89,
+        "makespan_function": 960618.58971,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 90,
+        "makespan_function": 956826.224709,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 91,
+        "makespan_function": 952927.127564,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 93,
+        "makespan_function": 949040.4829289999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 94,
+        "makespan_function": 945155.8522699999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 95,
+        "makespan_function": 941180.3387269999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 96,
+        "makespan_function": 937039.0993689998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 97,
+        "makespan_function": 932941.0718079999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 100,
+        "makespan_function": 920316.3283029998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 98,
+        "makespan_function": 928754.6217279999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 99,
+        "makespan_function": 924519.8427659998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 101,
+        "makespan_function": 916185.1594889999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 103,
+        "makespan_function": 907758.4913009999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 102,
+        "makespan_function": 911996.0317459998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 104,
+        "makespan_function": 903647.3339589998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 105,
+        "makespan_function": 899404.5298269999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 106,
+        "makespan_function": 895011.7745429998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 108,
+        "makespan_function": 885856.5049039999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 107,
+        "makespan_function": 890505.1108609998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 109,
+        "makespan_function": 881319.3728609999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 112,
+        "makespan_function": 876643.9959779999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 113,
+        "makespan_function": 872060.3335719998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 114,
+        "makespan_function": 867496.3875479997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 115,
+        "makespan_function": 862881.1233019998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 116,
+        "makespan_function": 858172.3580119997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 117,
+        "makespan_function": 853370.6928879997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 119,
+        "makespan_function": 848457.1029819997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 120,
+        "makespan_function": 843567.5808359998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 121,
+        "makespan_function": 838519.8899019997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 122,
+        "makespan_function": 833519.1034829997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 123,
+        "makespan_function": 828444.2532729998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 124,
+        "makespan_function": 823297.5799229997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 125,
+        "makespan_function": 817987.4879109997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 127,
+        "makespan_function": 807017.3151429998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 126,
+        "makespan_function": 812585.0890149998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 129,
+        "makespan_function": 801582.9617219997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 133,
+        "makespan_function": 784795.4564699997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 132,
+        "makespan_function": 790406.8786249997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 130,
+        "makespan_function": 796063.9729009997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 134,
+        "makespan_function": 779212.0631429998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 135,
+        "makespan_function": 773556.8270769997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 136,
+        "makespan_function": 767847.8917739998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 137,
+        "makespan_function": 762041.6572129998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 138,
+        "makespan_function": 756117.1562609997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 139,
+        "makespan_function": 750217.4934109998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 141,
+        "makespan_function": 744298.1660649998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 142,
+        "makespan_function": 738341.3819659998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 143,
+        "makespan_function": 732391.2051359998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 145,
+        "makespan_function": 720242.8525009999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 144,
+        "makespan_function": 726359.073639,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 146,
+        "makespan_function": 714181.932043,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 148,
+        "makespan_function": 708090.343393,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 149,
+        "makespan_function": 701935.794853,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 150,
+        "makespan_function": 695763.668831,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 151,
+        "makespan_function": 689569.683536,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 152,
+        "makespan_function": 683419.779765,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 153,
+        "makespan_function": 677289.280067,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 155,
+        "makespan_function": 664591.816871,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 154,
+        "makespan_function": 671026.200672,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 158,
+        "makespan_function": 645341.9543,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 156,
+        "makespan_function": 658249.882139,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 157,
+        "makespan_function": 651774.484191,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 159,
+        "makespan_function": 638997.2145170001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 160,
+        "makespan_function": 632529.964501,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 161,
+        "makespan_function": 625918.25082,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 162,
+        "makespan_function": 619336.2087290001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 164,
+        "makespan_function": 605940.4524830001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 165,
+        "makespan_function": 599223.078295,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 163,
+        "makespan_function": 612697.6142200001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 166,
+        "makespan_function": 592519.088864,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 167,
+        "makespan_function": 585680.549602,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 168,
+        "makespan_function": 578782.795459,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 169,
+        "makespan_function": 571870.419872,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 170,
+        "makespan_function": 565019.9746119999,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 171,
+        "makespan_function": 558242.0283099998,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 173,
+        "makespan_function": 544615.060416,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 172,
+        "makespan_function": 551470.330589,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 174,
+        "makespan_function": 537796.772663,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 175,
+        "makespan_function": 530842.286786,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 176,
+        "makespan_function": 523816.4334240001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 177,
+        "makespan_function": 516797.9416950001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 178,
+        "makespan_function": 509671.8841650001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 179,
+        "makespan_function": 502635.79471900006,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 180,
+        "makespan_function": 495519.8034030002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 181,
+        "makespan_function": 488312.17620100005,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 183,
+        "makespan_function": 481054.758145,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 184,
+        "makespan_function": 473646.9591080001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 185,
+        "makespan_function": 466254.63831600006,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 186,
+        "makespan_function": 458762.5506880001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 187,
+        "makespan_function": 451127.35133200017,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 188,
+        "makespan_function": 443529.08090400015,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 189,
+        "makespan_function": 435788.24177100015,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 190,
+        "makespan_function": 428059.05592400004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 191,
+        "makespan_function": 420274.66687600006,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 192,
+        "makespan_function": 412580.5551090001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 193,
+        "makespan_function": 404878.1788550001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 194,
+        "makespan_function": 397193.31100200006,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 195,
+        "makespan_function": 389453.60281500005,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 196,
+        "makespan_function": 381818.30740600004,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 197,
+        "makespan_function": 374205.7427140001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 199,
+        "makespan_function": 366559.0840170001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 201,
+        "makespan_function": 358798.47119100014,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 202,
+        "makespan_function": 351177.008863,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 203,
+        "makespan_function": 343735.8569480001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 204,
+        "makespan_function": 336218.29346699995,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 206,
+        "makespan_function": 321115.89405400003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 205,
+        "makespan_function": 328671.23568900005,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 207,
+        "makespan_function": 313618.20760900003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 208,
+        "makespan_function": 306082.66281,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 212,
+        "makespan_function": 283063.533838,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 210,
+        "makespan_function": 298495.497074,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 211,
+        "makespan_function": 290785.682327,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 213,
+        "makespan_function": 275463.37765599997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 215,
+        "makespan_function": 259732.64684599996,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 214,
+        "makespan_function": 267679.657193,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 217,
+        "makespan_function": 251829.07699899995,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 218,
+        "makespan_function": 243830.02604299996,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 220,
+        "makespan_function": 227711.50577800002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 219,
+        "makespan_function": 235802.900756,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 221,
+        "makespan_function": 219678.58617,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 222,
+        "makespan_function": 211498.02347400002,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 223,
+        "makespan_function": 203222.749003,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 226,
+        "makespan_function": 186495.15575999997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 224,
+        "makespan_function": 194877.967117,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 227,
+        "makespan_function": 178181.012334,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 228,
+        "makespan_function": 169706.714313,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 230,
+        "makespan_function": 161202.35486,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 231,
+        "makespan_function": 152664.767342,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 233,
+        "makespan_function": 135288.955108,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 232,
+        "makespan_function": 144043.93193899997,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 234,
+        "makespan_function": 126580.363108,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 235,
+        "makespan_function": 117745.07230100001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 236,
+        "makespan_function": 108972.919722,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 237,
+        "makespan_function": 100229.085189,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 238,
+        "makespan_function": 91446.77011,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 239,
+        "makespan_function": 82557.47591000001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 240,
+        "makespan_function": 73575.05031800001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 242,
+        "makespan_function": 64541.06426500001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 243,
+        "makespan_function": 55583.996425000005,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 244,
+        "makespan_function": 46546.84094000001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 245,
+        "makespan_function": 37467.179027000006,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 246,
+        "makespan_function": 28246.606809,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 247,
+        "makespan_function": 18938.780626,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    },
+    {
+        "Job_id": 248,
+        "makespan_function": 9464.613666000001,
+        "makespan_reward": 0,
+        "energy_consuption_function": 0,
+        "energy_consuption_reward": 0,
+        "energy_efficiency_function": 0,
+        "energy_efficiency_reward": 0
+    }
+]
