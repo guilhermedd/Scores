@@ -1,12 +1,31 @@
 import argparse as ap
+import pandas as pd
+import json
 
 def getScore(in_file, out_file):
-    with open(in_file) as file:
-        for current_line in file[1:]: # 1st line is a description of the log
-            for line in file:
-                if line[0] == current_line[0]:
-                    break
+    jobs = pd.read_csv(in_file)
+    jobs_json = []
+    for index_current, current_job in jobs.iterrows():
+        if current_job['success'] == 0:
+            continue
+        makespan_func = 0
+        makespan_reward = 0
+        energy_consuption_func = 0
+        energy_consuption_reward = 0
+        energy_efficiency_func = 0
+        energy_efficiency_reward = 0
+        for index_line, job in jobs.iterrows():
+            if job['success'] == 0:
+                continue
 
+            if job['submission_time'] >= current_job['submission_time']:
+                makespan_func += job['finish_time'] - job['submission_time']
+
+            if current_job['start_time'] <= job['finish_time'] or current_job['finish_time'] >= job['start_time']:
+                makespan_reward += 0
+        
+        jobs_json.append({'Job_id' : current_job['job_id'], 'makespan_function' : makespan_func, 'makespan_reward' : makespan_reward, 'energy_consuption_function' : energy_consuption_func, 
+            'energy_consuption_reward' : energy_consuption_reward, 'energy_efficiency_function' : energy_efficiency_func, 'energy_efficiency_reward': energy_efficiency_reward})
 
 
 
