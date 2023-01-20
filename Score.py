@@ -12,15 +12,20 @@ def getScore(in_file, out_file):
         makespan_reward = 0
         slowdown_func = 0
         slowdown_reward = 0
+        # print(current_job['allocated_resources'].split('-'))
         for index_line, job in jobs.iterrows():
             if job['success'] == 0:
                 continue
 
             if job['submission_time'] >= current_job['submission_time']:
                 makespan_func += job['finish_time'] - job['submission_time']
+                slowdown_func += (job['execution_time'] + job['waiting_time'] ) / job['execution_time']
+            # slowdown = (running_time + waiting_time) / running_time
 
             if current_job['starting_time'] <= job['finish_time'] or current_job['finish_time'] >= job['starting_time']: # Active jobs
-                makespan_reward += 0
+                allocated_resources = job['allocated_resources'].split('-') # 0 - 15 => [0, 15]
+                makespan_reward += int(allocated_resources[1]) - int(allocated_resources[0]) 
+                slowdown_reward -= (job['execution_time'] + job['waiting_time'] ) / job['execution_time']
         
         jobs_json.append({'Job_id' : current_job['job_id'], 'makespan_function' : makespan_func, 'makespan_reward' : makespan_reward, 'slowdown_function' : slowdown_func, 'slowdown_reward' : slowdown_reward})
 
