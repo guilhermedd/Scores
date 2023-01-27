@@ -37,21 +37,29 @@ def generate_graphs(in_file, scheduler):
         except OSError as error:
             print(error)
 
+    x_axis_makespan_function.sort()
+    # print(x_axis_makespan_function)
     regression = plt.scatter(x_axis_makespan_function, y_axis_CDF)
     name = path_scheduler + '_makespan_function_CDF.png'
     plt.savefig(name) 
     plt.clf()
 
+    x_axis_makespan_reward.sort()
+    # print(x_axis_makespan_reward)
     regression = plt.scatter(x_axis_makespan_reward, y_axis_CDF)
     name = path_scheduler + '_makespan_reward_CDF.png'
     plt.savefig(name) 
     plt.clf()
 
+    x_axis_slowdown_function.sort()
+    # print(x_axis_slowdown_function)
     regression = plt.scatter(x_axis_slowdown_function, y_axis_CDF)
     name = path_scheduler + '_slowdown_function_CDF.png'
     plt.savefig(name) 
     plt.clf()
 
+    x_axis_slowdown_reward.sort()
+    # print(x_axis_slowdown_reward)
     regression = plt.scatter(x_axis_slowdown_reward, y_axis_CDF)
     name = path_scheduler + '_slowdown_reward_CDF.png'
     plt.savefig(name) 
