@@ -1,0 +1,1794 @@
+[
+    {
+        "Job_id": 0,
+        "makespan_function": 172.9412,
+        "makespan_reward": 7,
+        "slowdown_function": 1.000006938822713,
+        "slowdown_reward": 1.000006938822713,
+        "starting_time": 57.246584
+    },
+    {
+        "Job_id": 1,
+        "makespan_function": 343.743,
+        "makespan_reward": 7,
+        "slowdown_function": 2.0000174774643993,
+        "slowdown_reward": 1.0000105386416862,
+        "starting_time": 61.189624
+    },
+    {
+        "Job_id": 2,
+        "makespan_function": 603.296842,
+        "makespan_reward": 3,
+        "slowdown_function": 3.878664278275054,
+        "slowdown_reward": 1.8786468008106545,
+        "starting_time": 230.188784
+    },
+    {
+        "Job_id": 3,
+        "makespan_function": 898.191019,
+        "makespan_reward": 7,
+        "slowdown_function": 5.5838462893771705,
+        "slowdown_reward": 1.7051820111021165,
+        "starting_time": 231.991824
+    },
+    {
+        "Job_id": 4,
+        "makespan_function": 1167.884186,
+        "makespan_reward": 15,
+        "slowdown_function": 7.953733530150457,
+        "slowdown_reward": 2.3698872407732865,
+        "starting_time": 404.934024
+    },
+    {
+        "Job_id": 5,
+        "makespan_function": 1439.5346260000001,
+        "makespan_reward": 15,
+        "slowdown_function": 10.33788694422804,
+        "slowdown_reward": 2.3841534140775846,
+        "starting_time": 518.736224
+    },
+    {
+        "Job_id": 8,
+        "makespan_function": 2595.151846,
+        "makespan_reward": 3,
+        "slowdown_function": 20.033273363964213,
+        "slowdown_reward": 3.0486181417927303,
+        "starting_time": 632.679024
+    },
+    {
+        "Job_id": 11,
+        "makespan_function": 3450.007129,
+        "makespan_reward": 3,
+        "slowdown_function": 25.357260690015785,
+        "slowdown_reward": 1.845757471766849,
+        "starting_time": 632.679624
+    },
+    {
+        "Job_id": 6,
+        "makespan_function": 1824.744343,
+        "makespan_reward": 7,
+        "slowdown_function": 12.593213156171835,
+        "slowdown_reward": 2.255326211943794,
+        "starting_time": 632.678424
+    },
+    {
+        "Job_id": 12,
+        "makespan_function": 3683.433553,
+        "makespan_reward": 3,
+        "slowdown_function": 27.992465296021656,
+        "slowdown_reward": 2.6352046060058703,
+        "starting_time": 721.261224
+    },
+    {
+        "Job_id": 7,
+        "makespan_function": 2325.1052520000003,
+        "makespan_reward": 15,
+        "slowdown_function": 16.984655222171483,
+        "slowdown_reward": 4.391442065999649,
+        "starting_time": 809.843424
+    },
+    {
+        "Job_id": 13,
+        "makespan_function": 4141.322031,
+        "makespan_reward": 7,
+        "slowdown_function": 30.6733111859514,
+        "slowdown_reward": 2.6808458899297425,
+        "starting_time": 923.786224
+    },
+    {
+        "Job_id": 10,
+        "makespan_function": 3196.6769170000002,
+        "makespan_reward": 7,
+        "slowdown_function": 23.511503218248937,
+        "slowdown_reward": 3.478229854284723,
+        "starting_time": 923.785624
+    },
+    {
+        "Job_id": 14,
+        "makespan_function": 4719.367514,
+        "makespan_reward": 7,
+        "slowdown_function": 34.015773791479326,
+        "slowdown_reward": 3.342462605527929,
+        "starting_time": 1094.588425
+    },
+    {
+        "Job_id": 15,
+        "makespan_function": 5257.883209,
+        "makespan_reward": 7,
+        "slowdown_function": 37.12966123221022,
+        "slowdown_reward": 3.113887440730889,
+        "starting_time": 1096.727825
+    },
+    {
+        "Job_id": 21,
+        "makespan_function": 8551.347144,
+        "makespan_reward": 3,
+        "slowdown_function": 63.71291495224886,
+        "slowdown_reward": 3.5241530856102004,
+        "starting_time": 1267.531225
+    },
+    {
+        "Job_id": 16,
+        "makespan_function": 5873.54358,
+        "makespan_reward": 3,
+        "slowdown_function": 41.58580172873599,
+        "slowdown_reward": 4.456140496525767,
+        "starting_time": 1267.530625
+    },
+    {
+        "Job_id": 17,
+        "makespan_function": 6503.252227,
+        "makespan_reward": 7,
+        "slowdown_function": 45.27262050508259,
+        "slowdown_reward": 3.6868187763466036,
+        "starting_time": 1269.670025
+    },
+    {
+        "Job_id": 18,
+        "makespan_function": 7237.614055,
+        "makespan_reward": 15,
+        "slowdown_function": 52.274544875791975,
+        "slowdown_reward": 7.001924370709382,
+        "starting_time": 1440.472225
+    },
+    {
+        "Job_id": 19,
+        "makespan_function": 8067.657133000001,
+        "makespan_reward": 15,
+        "slowdown_function": 60.18876186663866,
+        "slowdown_reward": 7.914216990846683,
+        "starting_time": 1545.354425
+    },
+    {
+        "Job_id": 23,
+        "makespan_function": 10207.651237,
+        "makespan_reward": 3,
+        "slowdown_function": 74.42379218169052,
+        "slowdown_reward": 5.6364294151708165,
+        "starting_time": 1650.237225
+    },
+    {
+        "Job_id": 28,
+        "makespan_function": 15056.573836000001,
+        "makespan_reward": 3,
+        "slowdown_function": 107.15922842067128,
+        "slowdown_reward": 5.0912844166184135,
+        "starting_time": 1650.237825
+    },
+    {
+        "Job_id": 22,
+        "makespan_function": 9428.922149,
+        "makespan_reward": 7,
+        "slowdown_function": 68.7873627665197,
+        "slowdown_reward": 5.074447814270845,
+        "starting_time": 1650.236625
+    },
+    {
+        "Job_id": 24,
+        "makespan_function": 11133.051955,
+        "makespan_reward": 7,
+        "slowdown_function": 79.84182917232283,
+        "slowdown_reward": 5.418036990632319,
+        "starting_time": 1788.401025
+    },
+    {
+        "Job_id": 25,
+        "makespan_function": 12090.732096000002,
+        "makespan_reward": 7,
+        "slowdown_function": 85.37947310663532,
+        "slowdown_reward": 5.537643934312478,
+        "starting_time": 1823.178825
+    },
+    {
+        "Job_id": 26,
+        "makespan_function": 13174.965182000002,
+        "makespan_reward": 7,
+        "slowdown_function": 91.72744199422314,
+        "slowdown_reward": 6.347968887587822,
+        "starting_time": 1959.203225
+    },
+    {
+        "Job_id": 29,
+        "makespan_function": 16100.353154000002,
+        "makespan_reward": 3,
+        "slowdown_function": 114.76417791429606,
+        "slowdown_reward": 7.604949493624772,
+        "starting_time": 1996.121025
+    },
+    {
+        "Job_id": 31,
+        "makespan_function": 16959.544911000005,
+        "makespan_reward": 3,
+        "slowdown_function": 120.9829949163227,
+        "slowdown_reward": 6.218817002026635,
+        "starting_time": 1996.121625
+    },
+    {
+        "Job_id": 27,
+        "makespan_function": 14353.161981000001,
+        "makespan_reward": 15,
+        "slowdown_function": 102.06794400405288,
+        "slowdown_reward": 10.340502009829736,
+        "starting_time": 2134.283825
+    },
+    {
+        "Job_id": 32,
+        "makespan_function": 17895.632072000004,
+        "makespan_reward": 15,
+        "slowdown_function": 129.20871689347558,
+        "slowdown_reward": 8.225721977152899,
+        "starting_time": 2248.226025
+    },
+    {
+        "Job_id": 33,
+        "makespan_function": 18935.558756000006,
+        "makespan_reward": 15,
+        "slowdown_function": 138.33568445535025,
+        "slowdown_reward": 9.126967561874672,
+        "starting_time": 2362.028225
+    },
+    {
+        "Job_id": 40,
+        "makespan_function": 25442.523309000004,
+        "makespan_reward": 3,
+        "slowdown_function": 184.78518518308502,
+        "slowdown_reward": 7.442851569202982,
+        "starting_time": 2475.971625
+    },
+    {
+        "Job_id": 35,
+        "makespan_function": 21102.693681000004,
+        "makespan_reward": 3,
+        "slowdown_function": 152.31866671461137,
+        "slowdown_reward": 7.219149652576722,
+        "starting_time": 2475.971025
+    },
+    {
+        "Job_id": 34,
+        "makespan_function": 20105.295966000005,
+        "makespan_reward": 7,
+        "slowdown_function": 145.09951706203464,
+        "slowdown_reward": 6.763832606684399,
+        "starting_time": 2475.970425
+    },
+    {
+        "Job_id": 44,
+        "makespan_function": 29695.440192000002,
+        "makespan_reward": 3,
+        "slowdown_function": 216.5079492572391,
+        "slowdown_reward": 6.91576206818695,
+        "starting_time": 2564.553825
+    },
+    {
+        "Job_id": 48,
+        "makespan_function": 33105.337999,
+        "makespan_reward": 3,
+        "slowdown_function": 243.82761409634975,
+        "slowdown_reward": 5.9062251298261454,
+        "starting_time": 2614.133225
+    },
+    {
+        "Job_id": 36,
+        "makespan_function": 22287.612164000006,
+        "makespan_reward": 15,
+        "slowdown_function": 162.73095566891718,
+        "slowdown_reward": 10.412288954305799,
+        "starting_time": 2702.715425
+    },
+    {
+        "Job_id": 37,
+        "makespan_function": 23610.428361000006,
+        "makespan_reward": 7,
+        "slowdown_function": 170.47578117828485,
+        "slowdown_reward": 7.74482550936768,
+        "starting_time": 2816.517625
+    },
+    {
+        "Job_id": 39,
+        "makespan_function": 24783.235517000005,
+        "makespan_reward": 7,
+        "slowdown_function": 177.34233361388203,
+        "slowdown_reward": 6.86655243559719,
+        "starting_time": 2816.518225
+    },
+    {
+        "Job_id": 41,
+        "makespan_function": 26683.477694000005,
+        "makespan_reward": 7,
+        "slowdown_function": 191.96082058264557,
+        "slowdown_reward": 7.175635399560542,
+        "starting_time": 2987.321425
+    },
+    {
+        "Job_id": 42,
+        "makespan_function": 27832.457761000005,
+        "makespan_reward": 7,
+        "slowdown_function": 198.6046280765741,
+        "slowdown_reward": 6.643807493928531,
+        "starting_time": 2987.322025
+    },
+    {
+        "Job_id": 43,
+        "makespan_function": 29082.841988000004,
+        "makespan_reward": 15,
+        "slowdown_function": 209.59218718905214,
+        "slowdown_reward": 10.987559112478031,
+        "starting_time": 3160.265225
+    },
+    {
+        "Job_id": 50,
+        "makespan_function": 35858.602124,
+        "makespan_reward": 3,
+        "slowdown_function": 267.38847288290776,
+        "slowdown_reward": 8.717987533697633,
+        "starting_time": 3274.068025
+    },
+    {
+        "Job_id": 52,
+        "makespan_function": 38721.729763,
+        "makespan_reward": 3,
+        "slowdown_function": 285.6250696627879,
+        "slowdown_reward": 8.358522343659525,
+        "starting_time": 3274.068625
+    },
+    {
+        "Job_id": 46,
+        "makespan_function": 31037.800423,
+        "makespan_reward": 7,
+        "slowdown_function": 224.367201201033,
+        "slowdown_reward": 7.85925194379391,
+        "starting_time": 3274.067425
+    },
+    {
+        "Job_id": 55,
+        "makespan_function": 43271.54974100001,
+        "makespan_reward": 3,
+        "slowdown_function": 313.7397816802333,
+        "slowdown_reward": 8.399789410828026,
+        "starting_time": 3411.320225
+    },
+    {
+        "Job_id": 47,
+        "makespan_function": 32582.164577,
+        "makespan_reward": 15,
+        "slowdown_function": 237.9213889665236,
+        "slowdown_reward": 13.55418776549061,
+        "starting_time": 3549.482425
+    },
+    {
+        "Job_id": 49,
+        "makespan_function": 34662.058335,
+        "makespan_reward": 15,
+        "slowdown_function": 258.67048534921014,
+        "slowdown_reward": 14.842871252860414,
+        "starting_time": 3663.424625
+    },
+    {
+        "Job_id": 53,
+        "makespan_function": 40333.44641700001,
+        "makespan_reward": 7,
+        "slowdown_function": 295.0613498442867,
+        "slowdown_reward": 9.436280181498828,
+        "starting_time": 3768.307425
+    },
+    {
+        "Job_id": 51,
+        "makespan_function": 37566.916315999995,
+        "makespan_reward": 7,
+        "slowdown_function": 277.2665473191284,
+        "slowdown_reward": 9.878074436220656,
+        "starting_time": 3768.306825
+    },
+    {
+        "Job_id": 57,
+        "makespan_function": 46697.01730500001,
+        "makespan_reward": 3,
+        "slowdown_function": 341.3617380950159,
+        "slowdown_reward": 11.935729347905282,
+        "starting_time": 3941.249025
+    },
+    {
+        "Job_id": 58,
+        "makespan_function": 48315.34160200001,
+        "makespan_reward": 3,
+        "slowdown_function": 353.1528076542144,
+        "slowdown_reward": 11.791069559198542,
+        "starting_time": 3941.249625
+    },
+    {
+        "Job_id": 54,
+        "makespan_function": 42111.03483700001,
+        "makespan_reward": 7,
+        "slowdown_function": 305.3399922694053,
+        "slowdown_reward": 10.278642425118539,
+        "starting_time": 3939.109625
+    },
+    {
+        "Job_id": 56,
+        "makespan_function": 45058.83845200001,
+        "makespan_reward": 15,
+        "slowdown_function": 329.4260087471106,
+        "slowdown_reward": 15.686227066877304,
+        "starting_time": 4112.051825
+    },
+    {
+        "Job_id": 60,
+        "makespan_function": 51747.590061,
+        "makespan_reward": 3,
+        "slowdown_function": 381.99478360512285,
+        "slowdown_reward": 18.441001196658387,
+        "starting_time": 4225.994625
+    },
+    {
+        "Job_id": 62,
+        "makespan_function": 55153.572952,
+        "makespan_reward": 3,
+        "slowdown_function": 404.1261264156612,
+        "slowdown_reward": 11.459879321077013,
+        "starting_time": 4225.995225
+    },
+    {
+        "Job_id": 59,
+        "makespan_function": 50114.086175000004,
+        "makespan_reward": 7,
+        "slowdown_function": 363.5537824084645,
+        "slowdown_reward": 10.40097475425003,
+        "starting_time": 4225.994025
+    },
+    {
+        "Job_id": 68,
+        "makespan_function": 64173.902488,
+        "makespan_reward": 3,
+        "slowdown_function": 474.96541877822216,
+        "slowdown_reward": 17.865194919846466,
+        "starting_time": 4398.936825
+    },
+    {
+        "Job_id": 61,
+        "makespan_function": 53570.276025,
+        "makespan_reward": 7,
+        "slowdown_function": 392.6662470945842,
+        "slowdown_reward": 10.671463489461358,
+        "starting_time": 4364.157425
+    },
+    {
+        "Job_id": 63,
+        "makespan_function": 56907.224131,
+        "makespan_reward": 3,
+        "slowdown_function": 416.90318419343896,
+        "slowdown_reward": 12.777057777777777,
+        "starting_time": 4398.936225
+    },
+    {
+        "Job_id": 65,
+        "makespan_function": 58802.923363,
+        "makespan_reward": 7,
+        "slowdown_function": 428.00212583278324,
+        "slowdown_reward": 11.098941639344261,
+        "starting_time": 4534.959625
+    },
+    {
+        "Job_id": 66,
+        "makespan_function": 60674.801023,
+        "makespan_reward": 7,
+        "slowdown_function": 438.8259818579943,
+        "slowdown_reward": 10.823856025211056,
+        "starting_time": 4536.188425
+    },
+    {
+        "Job_id": 67,
+        "makespan_function": 62591.403523,
+        "makespan_reward": 15,
+        "slowdown_function": 457.10022385837567,
+        "slowdown_reward": 18.27424200038139,
+        "starting_time": 4709.130625
+    },
+    {
+        "Job_id": 69,
+        "makespan_function": 66147.275613,
+        "makespan_reward": 15,
+        "slowdown_function": 492.3061316604717,
+        "slowdown_reward": 17.340712882249562,
+        "starting_time": 4814.012825
+    },
+    {
+        "Job_id": 71,
+        "makespan_function": 68054.392902,
+        "makespan_reward": 3,
+        "slowdown_function": 513.8360175150664,
+        "slowdown_reward": 21.529885854594717,
+        "starting_time": 4927.815025
+    },
+    {
+        "Job_id": 79,
+        "makespan_function": 82863.16706300002,
+        "makespan_reward": 3,
+        "slowdown_function": 617.271503990433,
+        "slowdown_reward": 12.31047120729589,
+        "starting_time": 4927.816226
+    },
+    {
+        "Job_id": 73,
+        "makespan_function": 70017.879633,
+        "makespan_reward": 7,
+        "slowdown_function": 525.331841467057,
+        "slowdown_reward": 11.495823951990632,
+        "starting_time": 4927.815625
+    },
+    {
+        "Job_id": 90,
+        "makespan_function": 107006.15514500001,
+        "makespan_reward": 3,
+        "slowdown_function": 785.0233853051202,
+        "slowdown_reward": 9.877912167052694,
+        "starting_time": 5016.397226
+    },
+    {
+        "Job_id": 74,
+        "makespan_function": 72119.04034400001,
+        "makespan_reward": 15,
+        "slowdown_function": 545.3657918007717,
+        "slowdown_reward": 20.03395033371472,
+        "starting_time": 5154.559426
+    },
+    {
+        "Job_id": 75,
+        "makespan_function": 74385.61686800001,
+        "makespan_reward": 7,
+        "slowdown_function": 558.4719356888254,
+        "slowdown_reward": 13.10614388805366,
+        "starting_time": 5259.441626
+    },
+    {
+        "Job_id": 76,
+        "makespan_function": 76502.48252300001,
+        "makespan_reward": 7,
+        "slowdown_function": 570.7123985950357,
+        "slowdown_reward": 12.240462906210247,
+        "starting_time": 5259.442226
+    },
+    {
+        "Job_id": 77,
+        "makespan_function": 78778.15509300001,
+        "makespan_reward": 7,
+        "slowdown_function": 584.0360084896492,
+        "slowdown_reward": 13.323609894613583,
+        "starting_time": 5432.385426
+    },
+    {
+        "Job_id": 80,
+        "makespan_function": 84996.89946900001,
+        "makespan_reward": 7,
+        "slowdown_function": 629.6094963924221,
+        "slowdown_reward": 12.33799240198913,
+        "starting_time": 5432.386026
+    },
+    {
+        "Job_id": 78,
+        "makespan_function": 81162.35236100001,
+        "makespan_reward": 15,
+        "slowdown_function": 604.9610327831371,
+        "slowdown_reward": 20.9250242934878,
+        "starting_time": 5605.328226
+    },
+    {
+        "Job_id": 81,
+        "makespan_function": 87390.18267800001,
+        "makespan_reward": 7,
+        "slowdown_function": 643.4483029669566,
+        "slowdown_reward": 13.838806574534521,
+        "starting_time": 5719.270426
+    },
+    {
+        "Job_id": 82,
+        "makespan_function": 89767.03020200001,
+        "makespan_reward": 7,
+        "slowdown_function": 657.192072621172,
+        "slowdown_reward": 13.743769654215336,
+        "starting_time": 5719.271026
+    },
+    {
+        "Job_id": 83,
+        "makespan_function": 92235.88514500001,
+        "makespan_reward": 15,
+        "slowdown_function": 680.7318794766259,
+        "slowdown_reward": 23.539806855453854,
+        "starting_time": 5892.214226
+    },
+    {
+        "Job_id": 84,
+        "makespan_function": 94817.921675,
+        "makespan_reward": 7,
+        "slowdown_function": 695.8491893712394,
+        "slowdown_reward": 15.117309894613584,
+        "starting_time": 5997.096426
+    },
+    {
+        "Job_id": 85,
+        "makespan_function": 97385.01165500001,
+        "makespan_reward": 7,
+        "slowdown_function": 710.8789901967663,
+        "slowdown_reward": 15.029800825526932,
+        "starting_time": 5997.097026
+    },
+    {
+        "Job_id": 87,
+        "makespan_function": 99981.08859500001,
+        "makespan_reward": 15,
+        "slowdown_function": 733.6916170860457,
+        "slowdown_reward": 22.812626889279443,
+        "starting_time": 6167.900226
+    },
+    {
+        "Job_id": 97,
+        "makespan_function": 124035.866181,
+        "makespan_reward": 3,
+        "slowdown_function": 918.3092112510708,
+        "slowdown_reward": 26.874460160307066,
+        "starting_time": 6281.703626
+    },
+    {
+        "Job_id": 91,
+        "makespan_function": 109623.74018000001,
+        "makespan_reward": 3,
+        "slowdown_function": 803.9694263806848,
+        "slowdown_reward": 18.946041075564565,
+        "starting_time": 6281.703026
+    },
+    {
+        "Job_id": 88,
+        "makespan_function": 102727.85019900001,
+        "makespan_reward": 7,
+        "slowdown_function": 749.57436026287,
+        "slowdown_reward": 15.882743176824333,
+        "starting_time": 6281.702426
+    },
+    {
+        "Job_id": 98,
+        "makespan_function": 126553.316343,
+        "makespan_reward": 3,
+        "slowdown_function": 936.5304776306307,
+        "slowdown_reward": 18.221266379559932,
+        "starting_time": 6370.285826
+    },
+    {
+        "Job_id": 99,
+        "makespan_function": 129089.080806,
+        "makespan_reward": 3,
+        "slowdown_function": 954.8843026378687,
+        "slowdown_reward": 18.353825007237987,
+        "starting_time": 6419.865226
+    },
+    {
+        "Job_id": 89,
+        "makespan_function": 105641.42280000001,
+        "makespan_reward": 15,
+        "slowdown_function": 775.1454731380675,
+        "slowdown_reward": 25.57111287519747,
+        "starting_time": 6558.027426
+    },
+    {
+        "Job_id": 93,
+        "makespan_function": 112491.41463900001,
+        "makespan_reward": 15,
+        "slowdown_function": 829.1377119695912,
+        "slowdown_reward": 25.168285588906443,
+        "starting_time": 6671.969626
+    },
+    {
+        "Job_id": 94,
+        "makespan_function": 115449.971982,
+        "makespan_reward": 15,
+        "slowdown_function": 855.1036356399441,
+        "slowdown_reward": 25.96592367035282,
+        "starting_time": 6785.911826
+    },
+    {
+        "Job_id": 95,
+        "makespan_function": 118574.25514000001,
+        "makespan_reward": 7,
+        "slowdown_function": 873.3956916001314,
+        "slowdown_reward": 18.292055960187355,
+        "starting_time": 6899.854026
+    },
+    {
+        "Job_id": 96,
+        "makespan_function": 121655.326501,
+        "makespan_reward": 7,
+        "slowdown_function": 891.4347510907637,
+        "slowdown_reward": 18.03905949063232,
+        "starting_time": 6899.854626
+    },
+    {
+        "Job_id": 100,
+        "makespan_function": 132203.29162,
+        "makespan_reward": 3,
+        "slowdown_function": 977.5743632207467,
+        "slowdown_reward": 22.69006058287796,
+        "starting_time": 7070.657826
+    },
+    {
+        "Job_id": 101,
+        "makespan_function": 135286.881563,
+        "makespan_reward": 3,
+        "slowdown_function": 999.8933408047073,
+        "slowdown_reward": 22.318977583960624,
+        "starting_time": 7070.658426
+    },
+    {
+        "Job_id": 102,
+        "makespan_function": 138369.302608,
+        "makespan_reward": 7,
+        "slowdown_function": 1017.9403024264872,
+        "slowdown_reward": 18.046961621779857,
+        "starting_time": 7070.659026
+    },
+    {
+        "Job_id": 108,
+        "makespan_function": 157722.10904500002,
+        "makespan_reward": 3,
+        "slowdown_function": 1172.9619443535667,
+        "slowdown_reward": 33.389081542108826,
+        "starting_time": 7208.820626
+    },
+    {
+        "Job_id": 103,
+        "makespan_function": 141462.59095,
+        "makespan_reward": 3,
+        "slowdown_function": 1040.3294768764003,
+        "slowdown_reward": 22.389174449913142,
+        "starting_time": 7207.910026
+    },
+    {
+        "Job_id": 104,
+        "makespan_function": 144654.886682,
+        "makespan_reward": 15,
+        "slowdown_function": 1070.7670792028687,
+        "slowdown_reward": 30.437602326468348,
+        "starting_time": 7346.072226
+    },
+    {
+        "Job_id": 105,
+        "makespan_function": 147997.133566,
+        "makespan_reward": 7,
+        "slowdown_function": 1090.093128029051,
+        "slowdown_reward": 19.326048826182493,
+        "starting_time": 7450.954426
+    },
+    {
+        "Job_id": 107,
+        "makespan_function": 154764.50420300002,
+        "makespan_reward": 7,
+        "slowdown_function": 1139.572862811458,
+        "slowdown_reward": 19.146604354111254,
+        "starting_time": 7450.955026
+    },
+    {
+        "Job_id": 106,
+        "makespan_function": 151453.290447,
+        "makespan_reward": 15,
+        "slowdown_function": 1120.4262584573466,
+        "slowdown_reward": 30.333130428295593,
+        "starting_time": 7623.898226
+    },
+    {
+        "Job_id": 112,
+        "makespan_function": 164618.610332,
+        "makespan_reward": 3,
+        "slowdown_function": 1231.6004314527884,
+        "slowdown_reward": 37.93422900203206,
+        "starting_time": 7737.841026
+    },
+    {
+        "Job_id": 113,
+        "makespan_function": 167959.107955,
+        "makespan_reward": 3,
+        "slowdown_function": 1269.3120776821854,
+        "slowdown_reward": 37.711646229397154,
+        "starting_time": 7737.841626
+    },
+    {
+        "Job_id": 109,
+        "makespan_function": 161258.39632700002,
+        "makespan_reward": 7,
+        "slowdown_function": 1193.6662024507564,
+        "slowdown_reward": 20.704258097189694,
+        "starting_time": 7737.840426
+    },
+    {
+        "Job_id": 114,
+        "makespan_function": 171353.06480000002,
+        "makespan_reward": 3,
+        "slowdown_function": 1307.6272373683448,
+        "slowdown_reward": 38.315159686159404,
+        "starting_time": 7826.424826
+    },
+    {
+        "Job_id": 122,
+        "makespan_function": 196207.07402200002,
+        "makespan_reward": 3,
+        "slowdown_function": 1506.540740604909,
+        "slowdown_reward": 34.97006784827275,
+        "starting_time": 7826.425426
+    },
+    {
+        "Job_id": 115,
+        "makespan_function": 174840.52428900002,
+        "makespan_reward": 15,
+        "slowdown_function": 1340.8791394469108,
+        "slowdown_reward": 33.25190207856598,
+        "starting_time": 7915.008626
+    },
+    {
+        "Job_id": 116,
+        "makespan_function": 178420.88361200003,
+        "makespan_reward": 15,
+        "slowdown_function": 1372.3409964240636,
+        "slowdown_reward": 31.4618569771529,
+        "starting_time": 8019.890826
+    },
+    {
+        "Job_id": 120,
+        "makespan_function": 189329.94539500002,
+        "makespan_reward": 7,
+        "slowdown_function": 1449.4425696067533,
+        "slowdown_reward": 20.776120216627636,
+        "starting_time": 8133.693626
+    },
+    {
+        "Job_id": 117,
+        "makespan_function": 182113.16771700003,
+        "makespan_reward": 7,
+        "slowdown_function": 1393.691083772277,
+        "slowdown_reward": 21.350087348213254,
+        "starting_time": 8133.693026
+    },
+    {
+        "Job_id": 119,
+        "makespan_function": 185781.38406200003,
+        "makespan_reward": 15,
+        "slowdown_function": 1428.6664493901258,
+        "slowdown_reward": 34.97536561784897,
+        "starting_time": 8306.635226
+    },
+    {
+        "Job_id": 121,
+        "makespan_function": 193109.42541300002,
+        "makespan_reward": 7,
+        "slowdown_function": 1471.5706727566362,
+        "slowdown_reward": 22.128103149882904,
+        "starting_time": 8411.517426
+    },
+    {
+        "Job_id": 123,
+        "makespan_function": 199961.637771,
+        "makespan_reward": 7,
+        "slowdown_function": 1528.2509507934137,
+        "slowdown_reward": 21.710210188504686,
+        "starting_time": 8411.518026
+    },
+    {
+        "Job_id": 127,
+        "makespan_function": 215940.05637200002,
+        "makespan_reward": 3,
+        "slowdown_function": 1656.9239981376816,
+        "slowdown_reward": 42.52154911944005,
+        "starting_time": 8584.460227
+    },
+    {
+        "Job_id": 132,
+        "makespan_function": 227811.845624,
+        "makespan_reward": 3,
+        "slowdown_function": 1743.4152110078278,
+        "slowdown_reward": 26.46745190359004,
+        "starting_time": 8584.460827
+    },
+    {
+        "Job_id": 124,
+        "makespan_function": 203877.479583,
+        "makespan_reward": 7,
+        "slowdown_function": 1551.1774251025472,
+        "slowdown_reward": 22.92647430913349,
+        "starting_time": 8582.319627
+    },
+    {
+        "Job_id": 133,
+        "makespan_function": 231529.14095100004,
+        "makespan_reward": 3,
+        "slowdown_function": 1770.4993299659334,
+        "slowdown_reward": 27.084118958105645,
+        "starting_time": 8673.042427
+    },
+    {
+        "Job_id": 125,
+        "makespan_function": 207942.801079,
+        "makespan_reward": 15,
+        "slowdown_function": 1589.9390717081917,
+        "slowdown_reward": 38.76164660564455,
+        "starting_time": 8810.294627
+    },
+    {
+        "Job_id": 126,
+        "makespan_function": 212173.497551,
+        "makespan_reward": 7,
+        "slowdown_function": 1614.4024490182414,
+        "slowdown_reward": 24.463377310049726,
+        "starting_time": 8915.176827
+    },
+    {
+        "Job_id": 130,
+        "makespan_function": 224155.10246900003,
+        "makespan_reward": 7,
+        "slowdown_function": 1716.9477591042378,
+        "slowdown_reward": 23.3209961605181,
+        "starting_time": 8915.177427
+    },
+    {
+        "Job_id": 129,
+        "makespan_function": 220121.969393,
+        "makespan_reward": 15,
+        "slowdown_function": 1693.6267629437198,
+        "slowdown_reward": 36.70276480603827,
+        "starting_time": 9088.120627
+    },
+    {
+        "Job_id": 137,
+        "makespan_function": 248341.84203300005,
+        "makespan_reward": 3,
+        "slowdown_function": 1896.1430554344174,
+        "slowdown_reward": 30.13959746448087,
+        "starting_time": 9202.064027
+    },
+    {
+        "Job_id": 134,
+        "makespan_function": 235710.04721700004,
+        "makespan_reward": 3,
+        "slowdown_function": 1800.7606665756612,
+        "slowdown_reward": 30.261336609727852,
+        "starting_time": 9202.062827
+    },
+    {
+        "Job_id": 135,
+        "makespan_function": 239908.96512000004,
+        "makespan_reward": 7,
+        "slowdown_function": 1825.0402890054056,
+        "slowdown_reward": 24.279622429744418,
+        "starting_time": 9202.063427
+    },
+    {
+        "Job_id": 136,
+        "makespan_function": 244205.18228100004,
+        "makespan_reward": 15,
+        "slowdown_function": 1866.0034579699366,
+        "slowdown_reward": 40.9631689645309,
+        "starting_time": 9375.005627
+    },
+    {
+        "Job_id": 141,
+        "makespan_function": 261450.31032800005,
+        "makespan_reward": 3,
+        "slowdown_function": 2002.2731719103763,
+        "slowdown_reward": 48.65109617295101,
+        "starting_time": 9479.889027
+    },
+    {
+        "Job_id": 138,
+        "makespan_function": 252731.48688300006,
+        "makespan_reward": 3,
+        "slowdown_function": 1928.125895871576,
+        "slowdown_reward": 31.98284043715847,
+        "starting_time": 9479.887827
+    },
+    {
+        "Job_id": 139,
+        "makespan_function": 257140.79622900006,
+        "makespan_reward": 7,
+        "slowdown_function": 1953.6220757374253,
+        "slowdown_reward": 25.496179865849427,
+        "starting_time": 9479.888427
+    },
+    {
+        "Job_id": 142,
+        "makespan_function": 265841.7987580001,
+        "makespan_reward": 3,
+        "slowdown_function": 2051.84969516619,
+        "slowdown_reward": 49.57652325581396,
+        "starting_time": 9568.471227
+    },
+    {
+        "Job_id": 143,
+        "makespan_function": 270328.22165500006,
+        "makespan_reward": 3,
+        "slowdown_function": 2084.3223565515405,
+        "slowdown_reward": 32.472661385350314,
+        "starting_time": 9617.140027
+    },
+    {
+        "Job_id": 145,
+        "makespan_function": 279383.76105100004,
+        "makespan_reward": 3,
+        "slowdown_function": 2143.568150274116,
+        "slowdown_reward": 32.58707628112333,
+        "starting_time": 9657.053427
+    },
+    {
+        "Job_id": 144,
+        "makespan_function": 274881.53059300006,
+        "makespan_reward": 7,
+        "slowdown_function": 2110.9810739929926,
+        "slowdown_reward": 26.65871744145199,
+        "starting_time": 9652.830627
+    },
+    {
+        "Job_id": 152,
+        "makespan_function": 307126.21462700004,
+        "makespan_reward": 3,
+        "slowdown_function": 2334.398106057318,
+        "slowdown_reward": 47.387287175434636,
+        "starting_time": 9795.215627
+    },
+    {
+        "Job_id": 146,
+        "makespan_function": 283929.641101,
+        "makespan_reward": 3,
+        "slowdown_function": 2176.471161637752,
+        "slowdown_reward": 32.90301136363636,
+        "starting_time": 9755.302227
+    },
+    {
+        "Job_id": 158,
+        "makespan_function": 336188.078177,
+        "makespan_reward": 3,
+        "slowdown_function": 2532.565406992899,
+        "slowdown_reward": 46.39198219688418,
+        "starting_time": 9893.464427
+    },
+    {
+        "Job_id": 148,
+        "makespan_function": 288521.27744100004,
+        "makespan_reward": 7,
+        "slowdown_function": 2203.3542783883377,
+        "slowdown_reward": 26.88311675058548,
+        "starting_time": 9823.632827
+    },
+    {
+        "Job_id": 156,
+        "makespan_function": 326749.280103,
+        "makespan_reward": 3,
+        "slowdown_function": 2454.9708703990595,
+        "slowdown_reward": 30.83813004007286,
+        "starting_time": 9883.797827
+    },
+    {
+        "Job_id": 164,
+        "makespan_function": 367749.609199,
+        "makespan_reward": 3,
+        "slowdown_function": 2757.942745209061,
+        "slowdown_reward": 29.292801369763204,
+        "starting_time": 9994.435627
+    },
+    {
+        "Job_id": 165,
+        "makespan_function": 371783.275229,
+        "makespan_reward": 3,
+        "slowdown_function": 2787.138359207324,
+        "slowdown_reward": 29.195613998262882,
+        "starting_time": 10021.050027
+    },
+    {
+        "Job_id": 149,
+        "makespan_function": 293248.66546300007,
+        "makespan_reward": 7,
+        "slowdown_function": 2230.689701211282,
+        "slowdown_reward": 27.33542282294437,
+        "starting_time": 9994.435027
+    },
+    {
+        "Job_id": 167,
+        "makespan_function": 381597.392232,
+        "makespan_reward": 3,
+        "slowdown_function": 2883.5209351023645,
+        "slowdown_reward": 46.04549268457891,
+        "starting_time": 10159.212227
+    },
+    {
+        "Job_id": 168,
+        "makespan_function": 385698.888418,
+        "makespan_reward": 3,
+        "slowdown_function": 2913.4043317289584,
+        "slowdown_reward": 29.88339662659381,
+        "starting_time": 10167.377827
+    },
+    {
+        "Job_id": 170,
+        "makespan_function": 395118.216978,
+        "makespan_reward": 3,
+        "slowdown_function": 2989.6713965859753,
+        "slowdown_reward": 44.69295441408896,
+        "starting_time": 10247.794427
+    },
+    {
+        "Job_id": 150,
+        "makespan_function": 298052.68075800006,
+        "makespan_reward": 7,
+        "slowdown_function": 2258.8162544606967,
+        "slowdown_reward": 28.12655324941452,
+        "starting_time": 10167.377227
+    },
+    {
+        "Job_id": 171,
+        "makespan_function": 399110.781898,
+        "makespan_reward": 3,
+        "slowdown_function": 3034.7443805552684,
+        "slowdown_reward": 45.07298396929329,
+        "starting_time": 10336.376627
+    },
+    {
+        "Job_id": 173,
+        "makespan_function": 408691.023422,
+        "makespan_reward": 3,
+        "slowdown_function": 3095.964766214325,
+        "slowdown_reward": 28.959516155182396,
+        "starting_time": 10338.180027
+    },
+    {
+        "Job_id": 151,
+        "makespan_function": 302928.64872900007,
+        "makespan_reward": 7,
+        "slowdown_function": 2287.010818881883,
+        "slowdown_reward": 28.194564421186538,
+        "starting_time": 10338.179427
+    },
+    {
+        "Job_id": 175,
+        "makespan_function": 418382.301659,
+        "makespan_reward": 3,
+        "slowdown_function": 3174.9080014947544,
+        "slowdown_reward": 29.045076440359004,
+        "starting_time": 10424.958827
+    },
+    {
+        "Job_id": 190,
+        "makespan_function": 498990.57380099996,
+        "makespan_reward": 3,
+        "slowdown_function": 3738.4544247585254,
+        "slowdown_reward": 38.18221999322646,
+        "starting_time": 10511.122227
+    },
+    {
+        "Job_id": 191,
+        "makespan_function": 502334.47576699994,
+        "makespan_reward": 3,
+        "slowdown_function": 3776.204503399302,
+        "slowdown_reward": 37.7500786407767,
+        "starting_time": 10563.121027
+    },
+    {
+        "Job_id": 153,
+        "makespan_function": 312115.358222,
+        "makespan_reward": 7,
+        "slowdown_function": 2363.6085486509946,
+        "slowdown_reward": 29.210442593676817,
+        "starting_time": 10511.121627
+    },
+    {
+        "Job_id": 192,
+        "makespan_function": 505723.22501999995,
+        "makespan_reward": 3,
+        "slowdown_function": 3800.894844047754,
+        "slowdown_reward": 24.69034064845173,
+        "starting_time": 10599.704427
+    },
+    {
+        "Job_id": 193,
+        "makespan_function": 509146.46407199994,
+        "makespan_reward": 3,
+        "slowdown_function": 3825.8364764849125,
+        "slowdown_reward": 24.941632437158468,
+        "starting_time": 10651.703227
+    },
+    {
+        "Job_id": 154,
+        "makespan_function": 317275.806223,
+        "makespan_reward": 7,
+        "slowdown_function": 2393.4480768168323,
+        "slowdown_reward": 29.839528165837862,
+        "starting_time": 10681.923827
+    },
+    {
+        "Job_id": 195,
+        "makespan_function": 518608.326067,
+        "makespan_reward": 3,
+        "slowdown_function": 3885.9876766752586,
+        "slowdown_reward": 24.201579657559197,
+        "starting_time": 10736.956627
+    },
+    {
+        "Job_id": 196,
+        "makespan_function": 521959.260358,
+        "makespan_reward": 3,
+        "slowdown_function": 3910.4024984676084,
+        "slowdown_reward": 24.414821792349727,
+        "starting_time": 10788.955427
+    },
+    {
+        "Job_id": 199,
+        "makespan_function": 531333.38368,
+        "makespan_reward": 3,
+        "slowdown_function": 3992.106137942976,
+        "slowdown_reward": 24.19007256079907,
+        "starting_time": 10874.208827
+    },
+    {
+        "Job_id": 155,
+        "makespan_function": 322516.746755,
+        "makespan_reward": 7,
+        "slowdown_function": 2424.1327403589867,
+        "slowdown_reward": 30.684663542154563,
+        "starting_time": 10854.866027
+    },
+    {
+        "Job_id": 201,
+        "makespan_function": 534588.331207,
+        "makespan_reward": 3,
+        "slowdown_function": 4015.665399140139,
+        "slowdown_reward": 23.55926119716271,
+        "starting_time": 10926.207627
+    },
+    {
+        "Job_id": 206,
+        "makespan_function": 558051.7234589999,
+        "makespan_reward": 3,
+        "slowdown_function": 4172.96093515103,
+        "slowdown_reward": 33.42028046963197,
+        "starting_time": 11064.369827
+    },
+    {
+        "Job_id": 205,
+        "makespan_function": 555091.3550149999,
+        "makespan_reward": 3,
+        "slowdown_function": 4139.540654681397,
+        "slowdown_reward": 21.707273107468122,
+        "starting_time": 11025.668827
+    },
+    {
+        "Job_id": 157,
+        "makespan_function": 332078.676394,
+        "makespan_reward": 7,
+        "slowdown_function": 2486.173424796015,
+        "slowdown_reward": 31.202554396955502,
+        "starting_time": 11025.668227
+    },
+    {
+        "Job_id": 159,
+        "makespan_function": 341552.194593,
+        "makespan_reward": 15,
+        "slowdown_function": 2579.643837886352,
+        "slowdown_reward": 47.07843089345269,
+        "starting_time": 11196.470427
+    },
+    {
+        "Job_id": 160,
+        "makespan_function": 347060.774674,
+        "makespan_reward": 7,
+        "slowdown_function": 2611.4963883720693,
+        "slowdown_reward": 31.852550485717586,
+        "starting_time": 11310.412627
+    },
+    {
+        "Job_id": 161,
+        "makespan_function": 352539.683165,
+        "makespan_reward": 7,
+        "slowdown_function": 2643.177367278048,
+        "slowdown_reward": 31.68097890597895,
+        "starting_time": 11310.413227
+    },
+    {
+        "Job_id": 162,
+        "makespan_function": 358075.144074,
+        "makespan_reward": 15,
+        "slowdown_function": 2695.9563614523427,
+        "slowdown_reward": 52.77899417429444,
+        "starting_time": 11483.356427
+    },
+    {
+        "Job_id": 163,
+        "makespan_function": 363729.172211,
+        "makespan_reward": 7,
+        "slowdown_function": 2728.6499438392975,
+        "slowdown_reward": 32.693582386955015,
+        "starting_time": 11588.238627
+    },
+    {
+        "Job_id": 169,
+        "makespan_function": 391159.315077,
+        "makespan_reward": 7,
+        "slowdown_function": 2944.9784421718864,
+        "slowdown_reward": 31.57411044292818,
+        "starting_time": 11588.239227
+    },
+    {
+        "Job_id": 166,
+        "makespan_function": 377518.68249000004,
+        "makespan_reward": 15,
+        "slowdown_function": 2837.4754424177854,
+        "slowdown_reward": 50.33708321046164,
+        "starting_time": 11761.182427
+    },
+    {
+        "Job_id": 176,
+        "makespan_function": 423837.973587,
+        "makespan_reward": 7,
+        "slowdown_function": 3206.849874615363,
+        "slowdown_reward": 31.941873120608896,
+        "starting_time": 11875.125227
+    },
+    {
+        "Job_id": 172,
+        "makespan_function": 404689.97667,
+        "makespan_reward": 7,
+        "slowdown_function": 3067.005250059143,
+        "slowdown_reward": 32.260869503874176,
+        "starting_time": 11875.124627
+    },
+    {
+        "Job_id": 174,
+        "makespan_function": 414369.433898,
+        "makespan_reward": 15,
+        "slowdown_function": 3145.8629250543954,
+        "slowdown_reward": 49.8981588400703,
+        "starting_time": 12048.066827
+    },
+    {
+        "Job_id": 177,
+        "makespan_function": 429517.152916,
+        "makespan_reward": 7,
+        "slowdown_function": 3240.1003390708665,
+        "slowdown_reward": 33.25046445550351,
+        "starting_time": 12161.869027
+    },
+    {
+        "Job_id": 178,
+        "makespan_function": 435106.364161,
+        "makespan_reward": 7,
+        "slowdown_function": 3272.4191273500387,
+        "slowdown_reward": 32.31878827917196,
+        "starting_time": 12161.869627
+    },
+    {
+        "Job_id": 212,
+        "makespan_function": 583667.0214099999,
+        "makespan_reward": 3,
+        "slowdown_function": 4367.224592009461,
+        "slowdown_reward": 45.289631767893425,
+        "starting_time": 12334.812427
+    },
+    {
+        "Job_id": 210,
+        "makespan_function": 573720.6945399999,
+        "makespan_reward": 3,
+        "slowdown_function": 4287.189226699413,
+        "slowdown_reward": 30.028522739526416,
+        "starting_time": 12334.811827
+    },
+    {
+        "Job_id": 179,
+        "makespan_function": 440775.477276,
+        "makespan_reward": 7,
+        "slowdown_function": 3305.6106561263855,
+        "slowdown_reward": 33.1915287763466,
+        "starting_time": 12332.671227
+    },
+    {
+        "Job_id": 215,
+        "makespan_function": 599659.0016659999,
+        "makespan_reward": 3,
+        "slowdown_function": 4483.849328148061,
+        "slowdown_reward": 30.01098030601093,
+        "starting_time": 12423.394627
+    },
+    {
+        "Job_id": 219,
+        "makespan_function": 615849.4174849999,
+        "makespan_reward": 3,
+        "slowdown_function": 4583.796169710265,
+        "slowdown_reward": 29.279872444991312,
+        "starting_time": 12472.064027
+    },
+    {
+        "Job_id": 180,
+        "makespan_function": 446642.979077,
+        "makespan_reward": 15,
+        "slowdown_function": 3357.170425906702,
+        "slowdown_reward": 51.55976978031635,
+        "starting_time": 12610.226227
+    },
+    {
+        "Job_id": 181,
+        "makespan_function": 452560.271733,
+        "makespan_reward": 15,
+        "slowdown_function": 3409.1677251597775,
+        "slowdown_reward": 51.997299253075575,
+        "starting_time": 12724.028428
+    },
+    {
+        "Job_id": 183,
+        "makespan_function": 458627.94537,
+        "makespan_reward": 7,
+        "slowdown_function": 3444.253151533086,
+        "slowdown_reward": 35.085426373308664,
+        "starting_time": 12837.830628
+    },
+    {
+        "Job_id": 186,
+        "makespan_function": 476735.55414599995,
+        "makespan_reward": 7,
+        "slowdown_function": 3590.228885996826,
+        "slowdown_reward": 34.13581563548051,
+        "starting_time": 12837.831228
+    },
+    {
+        "Job_id": 184,
+        "makespan_function": 464680.14236199996,
+        "makespan_reward": 15,
+        "slowdown_function": 3497.4359019021545,
+        "slowdown_reward": 53.18275036906854,
+        "starting_time": 13010.774428
+    },
+    {
+        "Job_id": 185,
+        "makespan_function": 470832.10618999996,
+        "makespan_reward": 15,
+        "slowdown_function": 3556.093070361346,
+        "slowdown_reward": 58.65716845919146,
+        "starting_time": 13124.576628
+    },
+    {
+        "Job_id": 188,
+        "makespan_function": 489221.47230699996,
+        "makespan_reward": 7,
+        "slowdown_function": 3662.8780569491396,
+        "slowdown_reward": 36.46236611826698,
+        "starting_time": 13229.459428
+    },
+    {
+        "Job_id": 187,
+        "makespan_function": 482993.70017399994,
+        "makespan_reward": 7,
+        "slowdown_function": 3626.415690830873,
+        "slowdown_reward": 36.186804834046484,
+        "starting_time": 13229.458828
+    },
+    {
+        "Job_id": 189,
+        "makespan_function": 495608.392754,
+        "makespan_reward": 7,
+        "slowdown_function": 3700.2722047652987,
+        "slowdown_reward": 37.39414781615925,
+        "starting_time": 13400.261628
+    },
+    {
+        "Job_id": 194,
+        "makespan_function": 515286.6592589999,
+        "makespan_reward": 7,
+        "slowdown_function": 3861.7860970176994,
+        "slowdown_reward": 35.94962053278689,
+        "starting_time": 13402.401028
+    },
+    {
+        "Job_id": 197,
+        "makespan_function": 527991.283255,
+        "makespan_reward": 15,
+        "slowdown_function": 3967.9160653821773,
+        "slowdown_reward": 57.51356691456903,
+        "starting_time": 13573.203228
+    },
+    {
+        "Job_id": 202,
+        "makespan_function": 540414.845522,
+        "makespan_reward": 7,
+        "slowdown_function": 4049.7784806096943,
+        "slowdown_reward": 34.113081469555034,
+        "starting_time": 13678.085428
+    },
+    {
+        "Job_id": 203,
+        "makespan_function": 546179.610003,
+        "makespan_reward": 7,
+        "slowdown_function": 4083.530029093301,
+        "slowdown_reward": 33.751548483606555,
+        "starting_time": 13678.086028
+    },
+    {
+        "Job_id": 204,
+        "makespan_function": 552112.031781,
+        "makespan_reward": 7,
+        "slowdown_function": 4117.83338157393,
+        "slowdown_reward": 34.30335248062912,
+        "starting_time": 13848.889228
+    },
+    {
+        "Job_id": 207,
+        "makespan_function": 563799.6906579998,
+        "makespan_reward": 7,
+        "slowdown_function": 4206.197706279745,
+        "slowdown_reward": 33.23677112871516,
+        "starting_time": 13848.889828
+    },
+    {
+        "Job_id": 208,
+        "makespan_function": 569599.2797939999,
+        "makespan_reward": 15,
+        "slowdown_function": 4257.160703959886,
+        "slowdown_reward": 50.9629976801406,
+        "starting_time": 14021.833028
+    },
+    {
+        "Job_id": 211,
+        "makespan_function": 579655.2658289999,
+        "makespan_reward": 7,
+        "slowdown_function": 4321.934960241568,
+        "slowdown_reward": 34.74573354215457,
+        "starting_time": 14135.635228
+    },
+    {
+        "Job_id": 214,
+        "makespan_function": 595539.9946199999,
+        "makespan_reward": 7,
+        "slowdown_function": 4453.83834784205,
+        "slowdown_reward": 33.96952322770903,
+        "starting_time": 14135.635828
+    },
+    {
+        "Job_id": 213,
+        "makespan_function": 589665.3052729999,
+        "makespan_reward": 15,
+        "slowdown_function": 4419.868824614341,
+        "slowdown_reward": 52.64423260487976,
+        "starting_time": 14308.578028
+    },
+    {
+        "Job_id": 218,
+        "makespan_function": 611804.1103089999,
+        "makespan_reward": 7,
+        "slowdown_function": 4554.516297265273,
+        "slowdown_reward": 35.53130613583138,
+        "starting_time": 14422.520828
+    },
+    {
+        "Job_id": 217,
+        "makespan_function": 605735.3632219998,
+        "makespan_reward": 7,
+        "slowdown_function": 4518.984991129442,
+        "slowdown_reward": 35.135662981380825,
+        "starting_time": 14422.520228
+    },
+    {
+        "Job_id": 220,
+        "makespan_function": 621957.5076919999,
+        "makespan_reward": 3,
+        "slowdown_function": 4652.751805372943,
+        "slowdown_reward": 68.9556356626778,
+        "starting_time": 14593.323028
+    },
+    {
+        "Job_id": 223,
+        "makespan_function": 640527.4975419999,
+        "makespan_reward": 3,
+        "slowdown_function": 4835.743582972815,
+        "slowdown_reward": 68.44623036802889,
+        "starting_time": 14593.323628
+    },
+    {
+        "Job_id": 221,
+        "makespan_function": 628163.6631869999,
+        "makespan_reward": 15,
+        "slowdown_function": 4707.220433554442,
+        "slowdown_reward": 54.468628181499035,
+        "starting_time": 14681.906828
+    },
+    {
+        "Job_id": 222,
+        "makespan_function": 634464.5304569999,
+        "makespan_reward": 15,
+        "slowdown_function": 4767.297352604785,
+        "slowdown_reward": 60.07691905034325,
+        "starting_time": 14795.849028
+    },
+    {
+        "Job_id": 226,
+        "makespan_function": 653275.6361229998,
+        "makespan_reward": 3,
+        "slowdown_function": 4953.698238752509,
+        "slowdown_reward": 71.57072731993678,
+        "starting_time": 14900.731828
+    },
+    {
+        "Job_id": 224,
+        "makespan_function": 646935.9010979999,
+        "makespan_reward": 3,
+        "slowdown_function": 4882.127511432572,
+        "slowdown_reward": 46.38392845975681,
+        "starting_time": 14900.731228
+    },
+    {
+        "Job_id": 227,
+        "makespan_function": 659686.9437429998,
+        "makespan_reward": 7,
+        "slowdown_function": 4990.77067786434,
+        "slowdown_reward": 37.07243911183069,
+        "starting_time": 14900.732428
+    },
+    {
+        "Job_id": 235,
+        "makespan_function": 705616.8777269998,
+        "makespan_reward": 3,
+        "slowdown_function": 5365.999379831098,
+        "slowdown_reward": 69.52241565816212,
+        "starting_time": 15073.675228
+    },
+    {
+        "Job_id": 228,
+        "makespan_function": 666216.8953949998,
+        "makespan_reward": 7,
+        "slowdown_function": 5029.00224491352,
+        "slowdown_reward": 38.23156704918032,
+        "starting_time": 15038.893428
+    },
+    {
+        "Job_id": 233,
+        "makespan_function": 692590.1035429998,
+        "makespan_reward": 3,
+        "slowdown_function": 5236.121264647453,
+        "slowdown_reward": 46.47969543897996,
+        "starting_time": 15073.674628
+    },
+    {
+        "Job_id": 230,
+        "makespan_function": 672781.3063119998,
+        "makespan_reward": 15,
+        "slowdown_function": 5091.591975252956,
+        "slowdown_reward": 62.589730339435555,
+        "starting_time": 15210.926828
+    },
+    {
+        "Job_id": 231,
+        "makespan_function": 679428.9651139998,
+        "makespan_reward": 15,
+        "slowdown_function": 5149.935478868894,
+        "slowdown_reward": 58.34350361593821,
+        "starting_time": 15315.809028
+    },
+    {
+        "Job_id": 236,
+        "makespan_function": 712102.9312589999,
+        "makespan_reward": 3,
+        "slowdown_function": 5439.221930429427,
+        "slowdown_reward": 73.22255059832919,
+        "starting_time": 15429.751828
+    },
+    {
+        "Job_id": 240,
+        "makespan_function": 739231.9075789998,
+        "makespan_reward": 3,
+        "slowdown_function": 5672.9330611673495,
+        "slowdown_reward": 71.97311416798375,
+        "starting_time": 15429.752428
+    },
+    {
+        "Job_id": 232,
+        "makespan_function": 686210.7653439998,
+        "makespan_reward": 7,
+        "slowdown_function": 5189.641569208473,
+        "slowdown_reward": 39.70609033957845,
+        "starting_time": 15429.751228
+    },
+    {
+        "Job_id": 242,
+        "makespan_function": 745618.9498179997,
+        "makespan_reward": 3,
+        "slowdown_function": 5745.037850499027,
+        "slowdown_reward": 72.10478933167758,
+        "starting_time": 15518.335628
+    },
+    {
+        "Job_id": 234,
+        "makespan_function": 699458.5821489998,
+        "makespan_reward": 15,
+        "slowdown_function": 5296.476964172936,
+        "slowdown_reward": 60.35569952548331,
+        "starting_time": 15606.917828
+    },
+    {
+        "Job_id": 237,
+        "makespan_function": 718918.4329369998,
+        "makespan_reward": 7,
+        "slowdown_function": 5478.631561972158,
+        "slowdown_reward": 39.40963154273158,
+        "starting_time": 15720.720028
+    },
+    {
+        "Job_id": 245,
+        "makespan_function": 766170.6406319998,
+        "makespan_reward": 7,
+        "slowdown_function": 5911.1808793175105,
+        "slowdown_reward": 37.84933859720134,
+        "starting_time": 15720.720628
+    },
+    {
+        "Job_id": 238,
+        "makespan_function": 725840.9153359998,
+        "makespan_reward": 15,
+        "slowdown_function": 5539.387068370263,
+        "slowdown_reward": 60.75550639810426,
+        "starting_time": 15893.663828
+    },
+    {
+        "Job_id": 239,
+        "makespan_function": 732856.5291269998,
+        "makespan_reward": 15,
+        "slowdown_function": 5600.9599469993655,
+        "slowdown_reward": 61.57287862910304,
+        "starting_time": 16007.606028
+    },
+    {
+        "Job_id": 243,
+        "makespan_function": 752600.7097019998,
+        "makespan_reward": 15,
+        "slowdown_function": 5811.606880676372,
+        "slowdown_reward": 66.56903017734554,
+        "starting_time": 16121.548228
+    },
+    {
+        "Job_id": 244,
+        "makespan_function": 759624.9760149998,
+        "makespan_reward": 15,
+        "slowdown_function": 5873.331540720309,
+        "slowdown_reward": 61.72466004393673,
+        "starting_time": 16226.430429
+    },
+    {
+        "Job_id": 246,
+        "makespan_function": 773250.1290149998,
+        "makespan_reward": 15,
+        "slowdown_function": 5978.68172202346,
+        "slowdown_reward": 67.50084270594967,
+        "starting_time": 16340.232629
+    },
+    {
+        "Job_id": 247,
+        "makespan_function": 780495.9581749998,
+        "makespan_reward": 7,
+        "slowdown_function": 6021.10460937709,
+        "slowdown_reward": 42.422887353629974,
+        "starting_time": 16445.114829
+    },
+    {
+        "Job_id": 248,
+        "makespan_function": 787732.2340409998,
+        "makespan_reward": 7,
+        "slowdown_function": 6062.94730549135,
+        "slowdown_reward": 41.84269611425928,
+        "starting_time": 16445.115429
+    }
+]
