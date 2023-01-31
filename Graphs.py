@@ -1,23 +1,28 @@
-import seaborn as sns
+import numpy as np
 import matplotlib.pyplot as plt
 import argparse as ap
 import json
 import os
 from os import path
 
+def get_cmap(n, name='hsv'):
+    '''Returns a function that maps each index in 0, 1, ..., n-1 to a distinct 
+    RGB color; the keyword argument name must be a standard mpl colormap name.'''
+    return plt.cm.get_cmap(name, n)
+
 def generate_graphs(in_file):
+    tuple_mkspan_func           = []
+    tuple_mkspan_reward         = []
+    tuple_slowdown_func         = []
+    tuple_slowdown_reward       = []
+
     for file in in_file:
-        name = file.split('/')[len(file.split('/')) - 2] # name.txt => name
         y_axis_CDF                  = []
         x_axis_makespan_function    = []
         x_axis_makespan_reward      = []
         x_axis_slowdown_function    = []
         x_axis_slowdown_reward      = []
-        tuple_mkspan_func           = []
-        tuple_mkspan_reward         = []
-        tuple_slowdown_func         = []
-        tuple_slowdown_reward       = []
-
+        name = file.split('/')[len(file.split('/')) - 2] # name.txt => name
         with open (file, 'r') as f:
             data = json.load(f)
 
@@ -32,9 +37,7 @@ def generate_graphs(in_file):
         tuple_mkspan_func.append((x_axis_makespan_function, name))
         tuple_mkspan_reward.append((x_axis_makespan_reward, name))
         tuple_slowdown_func.append((x_axis_slowdown_function, name))
-        x_axis_slowdown_reward.append((x_axis_slowdown_reward, name))
-        
-
+        tuple_slowdown_reward.append((x_axis_slowdown_reward, name))
         
     # #CDF
     path_scheduler = 'Graphs/'
@@ -43,31 +46,47 @@ def generate_graphs(in_file):
             os.mkdir(path_scheduler)
         except OSError as error:
             print(error)
+    
 
-    x_axis_makespan_function.sort()
-    regression = plt.scatter(x_axis_makespan_function, y_axis_CDF)
-    name = path_scheduler + '_makespan_function_CDF.png'
+    plt.ylabel("Cumulative Distribution Function") 
+    for t in tuple_mkspan_func:
+        t[0].sort()
+        plt.plot(t[0], y_axis_CDF, label=t[1])
+    name = path_scheduler + '_makespan_function.png'
+    plt.xlabel("Makespan Function")
+    plt.legend(loc='best')
     plt.savefig(name) 
     plt.clf()
 
-    x_axis_makespan_reward.sort()
-    # print(x_axis_makespan_reward)
-    regression = plt.scatter(x_axis_makespan_reward, y_axis_CDF)
-    name = path_scheduler + '_makespan_reward_CDF.png'
+    plt.ylabel("Cumulative Distribution Function") 
+    for t in tuple_mkspan_reward:
+        t[0].sort()
+        plt.scatter(t[0], y_axis_CDF, label=t[1])
+    name = path_scheduler + '_makespan_reward.png'
+    plt.xlabel("Makespan Reward")
+    plt.legend(loc='best')
     plt.savefig(name) 
     plt.clf()
 
-    x_axis_slowdown_function.sort()
-    # print(x_axis_slowdown_function)
-    regression = plt.scatter(x_axis_slowdown_function, y_axis_CDF)
-    name = path_scheduler + '_slowdown_function_CDF.png'
+    # tuple_slowdown_func.sort()
+    plt.ylabel("Cumulative Distribution Function") 
+    for t in tuple_slowdown_func:
+        t[0].sort()
+        plt.plot(t[0], y_axis_CDF, label=t[1])
+    name = path_scheduler + '_slowdown_function.png'
+    plt.xlabel("Slowdown Function")
+    plt.legend(loc='best')
     plt.savefig(name) 
     plt.clf()
 
-    x_axis_slowdown_reward.sort()
-    # print(x_axis_slowdown_reward)
-    regression = plt.scatter(x_axis_slowdown_reward, y_axis_CDF)
-    name = path_scheduler + '_slowdown_reward_CDF.png'
+    # tuple_slowdown_reward.sort()
+    plt.ylabel("Cumulative Distribution Function") 
+    for t in tuple_slowdown_reward:
+        t[0].sort()
+        plt.plot(t[0], y_axis_CDF, label=t[1])
+    name = path_scheduler + '_slowdown_reward.png'
+    plt.xlabel("Slowdown Reward")
+    plt.legend(loc='best')
     plt.savefig(name) 
     plt.clf()
 
