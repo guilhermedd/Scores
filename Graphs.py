@@ -21,9 +21,13 @@ def generate_graphs(in_file):
         x_axis                  = []
         name = file.split('/')[len(file.split('/')) - 2] # name.txt => name
 
-        with open (file, 'r') as f:
-            data = json.load(f)
+        try:
+            with open (file, 'r') as f:
+                data = json.load(f)
+        except FileNotFoundError:
+            print('File "{}" not found'.format(file))
 
+        # data_by_starting_time = data.sort(key=lambda k : k['starting_time'])
         data.sort(key=lambda k : k['makespan_function'])
         for d in data:
             y_axis.append(data.index(d) / len(data))
@@ -65,7 +69,7 @@ def generate_graphs(in_file):
 
     plt.ylabel("Cumulative Distribution Function") 
     for t in tuple_mkspan_func:
-        t[0].sort()
+        # t[0].sort()
         plt.plot(t[0], t[2], label=t[1])
     name = path_scheduler + '_makespan_function.png'
     plt.xlabel("Makespan Function")
@@ -75,7 +79,7 @@ def generate_graphs(in_file):
 
     plt.ylabel("Cumulative Distribution Function") 
     for t in tuple_mkspan_reward:
-        t[0].sort()
+        # t[0].sort()
         plt.scatter(t[0], t[2], label=t[1])
     name = path_scheduler + '_makespan_reward.png'
     plt.xlabel("Makespan Reward")
@@ -86,7 +90,7 @@ def generate_graphs(in_file):
     # tuple_slowdown_func.sort()
     plt.ylabel("Cumulative Distribution Function") 
     for t in tuple_slowdown_func:
-        t[0].sort()
+        # t[0].sort()
         plt.plot(t[0], t[2], label=t[1])
     name = path_scheduler + '_slowdown_function.png'
     plt.xlabel("Slowdown Function")
@@ -97,7 +101,7 @@ def generate_graphs(in_file):
     # tuple_slowdown_reward.sort()
     plt.ylabel("Cumulative Distribution Function") 
     for t in tuple_slowdown_reward:
-        t[0].sort()
+        # t[0].sort()
         plt.plot(t[0], t[2], label=t[1])
     name = path_scheduler + '_slowdown_reward.png'
     plt.xlabel("Slowdown Reward")
