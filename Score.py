@@ -6,7 +6,9 @@ def getScore(in_file, out_file):
     jobs = pd.read_csv(in_file)
     jobs.sort_values(by='submission_time')
     jobs_json = []
-    for index_current, current_job in jobs.iterrows():
+    queijo = list(jobs.iterrows())
+    for index_current, current_job in queijo:
+        print(index_current)
         if current_job['success'] == 0:
             continue
         makespan_func = 0
@@ -14,7 +16,7 @@ def getScore(in_file, out_file):
         slowdown_func = 0
         slowdown_reward = 0
         starting_time = current_job['starting_time']
-        for index_line, job in jobs.iterrows():
+        for index_line, job in queijo[:index_current]:
             if job['success'] == 0:
                 continue
 
@@ -26,7 +28,10 @@ def getScore(in_file, out_file):
         multi_allocated_resources = current_job['allocated_resources'].split() # 0-15 16-17 => [0-15, 16-17]
         for x in multi_allocated_resources:
             allocated_resources = x.split('-')
-            makespan_reward = int(allocated_resources[1]) - int(allocated_resources[0])
+            try:
+                makespan_reward = int(allocated_resources[1]) - int(allocated_resources[0])
+            except IndexError:
+                makespan_reward = int(allocated_resources[0])
         slowdown_reward = (current_job['execution_time'] + current_job['waiting_time'] ) / current_job['execution_time']
         
         jobs_json.append({'Job_id' : current_job['job_id'], 'makespan_function' : makespan_func, 'makespan_reward' : makespan_reward, 'slowdown_function' : slowdown_func, 'slowdown_reward' : slowdown_reward, 'starting_time' : starting_time})
