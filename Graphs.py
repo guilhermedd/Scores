@@ -1,4 +1,3 @@
-import numpy as np
 import matplotlib.pyplot as plt
 import argparse as ap
 import json
@@ -6,10 +5,9 @@ import os
 from os import path
 
 def generate_graphs(in_file):
-    tuple_mkspan_func           = []
-    tuple_mkspan_reward         = []
-    tuple_slowdown_func         = []
-    tuple_slowdown_reward       = []
+    tuple_makespan              = []
+    tuple_slowdown              = []
+    path_scheduler = 'Graphs/'
 
     for file in in_file:
         y_axis                  = []
@@ -21,41 +19,48 @@ def generate_graphs(in_file):
                 data = json.load(f)
         except FileNotFoundError:
             print('File "{}" not found'.format(file))
-
-        # data_by_starting_time = data.sort(key=lambda k : k['starting_time'])
-        data.sort(key=lambda k : k['makespan_function'])
-        for d in data:
-            y_axis.append(data.index(d) / len(data))
-            x_axis.append(d['makespan_function'])
-        tuple_mkspan_func.append((x_axis, name, y_axis))
-
-        y_axis = []
-        x_axis = []
-        data.sort(key=lambda k : k['makespan_reward'])
-        for d in data:
-            x_axis.append(d['makespan_reward'])
-            y_axis.append(data.index(d) / len(data))
-        tuple_mkspan_reward.append((x_axis, name, y_axis))
-
-        y_axis = []
-        x_axis = []
-        data.sort(key=lambda k : k['slowdown_function'])
-        for d in data:
-            x_axis.append(d['slowdown_function'])
-            y_axis.append(data.index(d) / len(data))
-        tuple_slowdown_func.append((x_axis, name, y_axis))
-
-        y_axis = []
-        x_axis = []
-        data.sort(key=lambda k : k['slowdown_reward'])
-        for d in data:
-            x_axis.append(d['slowdown_reward'])
-            y_axis.append(data.index(d) / len(data))
-        tuple_slowdown_reward.append((x_axis, name,y_axis))
         
+        for d in data:
+            y_axis.append(data.index(d))
+            x_axis.append(d['makespan'])
         
-    # #CDF
-    path_scheduler = 'Graphs/'
+        plt.ylabel("Cumulative Distribution Function") 
+            # t[0].sort()
+        plt.scatter(x_axis, y_axis)
+        name = path_scheduler + '_makespan_no_sort.png'
+        plt.xlabel("Makespan Function")
+        plt.legend(loc='best')
+        plt.savefig(name) 
+        plt.clf()
+
+        for d in data:
+            y_axis.append(data.index(d))
+            x_axis.append(d['slowdown'])
+        
+        plt.ylabel("Cumulative Distribution Function") 
+            # t[0].sort()
+        plt.scatter(x_axis, y_axis)
+        name = path_scheduler + '_slowdown_no_sort.png'
+        plt.xlabel("Slowdown Function")
+        plt.legend(loc='best')
+        plt.savefig(name) 
+        plt.clf()
+
+        data.sort(key=lambda k : k['makespan'])
+        for d in data:
+            y_axis.append(data.index(d) / len(data))
+            x_axis.append(d['makespan'])
+        tuple_makespan.append((x_axis, name, y_axis))
+
+        y_axis = []
+        x_axis = []
+        data.sort(key=lambda k : k['slowdown'])
+        for d in data:
+            x_axis.append(d['slowdown'])
+            y_axis.append(data.index(d) / len(data))
+        tuple_slowdown.append((x_axis, name,y_axis)) 
+        
+    #CDF
     if not path.exists(path_scheduler):
         try:
             os.mkdir(path_scheduler)
@@ -63,43 +68,22 @@ def generate_graphs(in_file):
             print(error)
 
     plt.ylabel("Cumulative Distribution Function") 
-    for t in tuple_mkspan_func:
+    for t in tuple_makespan:
         # t[0].sort()
         plt.plot(t[0], t[2], label=t[1])
-    name = path_scheduler + '_makespan_function.png'
-    plt.xlabel("Makespan Function")
+    name = path_scheduler + '_makespan.png'
+    plt.xlabel("Makespan")
     plt.legend(loc='best')
     plt.savefig(name) 
     plt.clf()
 
+    # tuple_slowdown.sort()
     plt.ylabel("Cumulative Distribution Function") 
-    for t in tuple_mkspan_reward:
-        # t[0].sort()
-        plt.scatter(t[0], t[2], label=t[1])
-    name = path_scheduler + '_makespan_reward.png'
-    plt.xlabel("Makespan Reward")
-    plt.legend(loc='best')
-    plt.savefig(name) 
-    plt.clf()
-
-    # tuple_slowdown_func.sort()
-    plt.ylabel("Cumulative Distribution Function") 
-    for t in tuple_slowdown_func:
+    for t in tuple_slowdown:
         # t[0].sort()
         plt.plot(t[0], t[2], label=t[1])
-    name = path_scheduler + '_slowdown_function.png'
-    plt.xlabel("Slowdown Function")
-    plt.legend(loc='best')
-    plt.savefig(name) 
-    plt.clf()
-
-    # tuple_slowdown_reward.sort()
-    plt.ylabel("Cumulative Distribution Function") 
-    for t in tuple_slowdown_reward:
-        # t[0].sort()
-        plt.plot(t[0], t[2], label=t[1])
-    name = path_scheduler + '_slowdown_reward.png'
-    plt.xlabel("Slowdown Reward")
+    name = path_scheduler + '_slowdown.png'
+    plt.xlabel("Slowdown")
     plt.legend(loc='best')
     plt.savefig(name) 
     plt.clf()

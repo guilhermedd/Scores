@@ -4,39 +4,26 @@ import json
 
 def getScore(in_file, out_file):
     jobs = list(pd.read_csv(in_file).sort_values(by='submission_time').iterrows())
-    # jobs.sort_values(by='submission_time')
     jobs_json = []
-    # queijo = list(jobs.iterrows())
     for index_current, current_job in jobs:
         print(index_current)
         if current_job['success'] == 0:
             continue
-        makespan_func = 0
-        makespan_reward = 0
-        slowdown_func = 0
-        slowdown_reward = 0
+        makespan = 0
+        slowdown = 0
         starting_time = current_job['starting_time']
-        # for index_line, job in jobs:
-        #     if job['success'] == 0:
-        #         continue
-
-        #     if job['submission_time'] <= current_job['submission_time']:
-        #         makespan_func += job['finish_time'] - job['submission_time']
-        #         slowdown_func += (job['execution_time'] + job['waiting_time'] ) / job['execution_time']
-        #     else:
-        #         break
-            # slowdown = (running_time + waiting_time) / running_time
+        # slowdown = (running_time + waiting_time) / running_time
 
         multi_allocated_resources = current_job['allocated_resources'].split() # 0-15 16-17 => [0-15, 16-17]
         for x in multi_allocated_resources:
             allocated_resources = x.split('-')
             try:
-                makespan_reward = 1 + int(allocated_resources[1]) - int(allocated_resources[0])
+                makespan = 1 + int(allocated_resources[1]) - int(allocated_resources[0])
             except IndexError:
-                makespan_reward = int(allocated_resources[0] + 1) if int(allocated_resources[0]) != 0 else 1
-        slowdown_reward = (current_job['execution_time'] + current_job['waiting_time'] ) / current_job['execution_time']
+                makespan = int(allocated_resources[0]) + 1 if int(allocated_resources[0]) != 0 else 1
+        slowdown = (current_job['execution_time'] + current_job['waiting_time'] ) / current_job['execution_time']
         
-        jobs_json.append({'Job_id' : current_job['job_id'], 'makespan_function' : makespan_func, 'makespan_reward' : makespan_reward, 'slowdown_function' : slowdown_func, 'slowdown_reward' : slowdown_reward, 'starting_time' : starting_time})
+        jobs_json.append({'Job_id' : current_job['job_id'], 'makespan' : makespan, 'slowdown' : slowdown, 'starting_time' : starting_time})
 
     with open(out_file, 'w') as out:
         json.dump(jobs_json, out, indent=4)
