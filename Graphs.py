@@ -33,7 +33,8 @@ def generate_graphs(in_file):
         i = 0
         for d in data:
             x_axis.append(float(d['slowdown']))
-            y_axis.append(float(i / len(data)))
+            y_axis.append(i)
+#            y_axis.append(float(i / len(data)))
             i+=1
         tuple_slowdown.append((name, x_axis, y_axis)) 
         print('Slowdown done...')
@@ -51,11 +52,10 @@ def generate_graphs(in_file):
     plt.savefig(name) 
     plt.clf()
 
-    plt.ylabel("CDF") 
-    for t in tuple_slowdown:
-        plt.plot(t[1], t[2], label=t[0])
+    plt.ylabel("Slowdown") 
+    plt.boxplot([k[1] for k in tuple_slowdown], labels=[k[0] for k in tuple_slowdown])
     name = path_scheduler + 'slowdown.png'
-    plt.xlabel("Slowdown")
+    plt.xlabel("Schedulers")
     plt.legend(loc='best')
     plt.savefig(name) 
     plt.clf()
