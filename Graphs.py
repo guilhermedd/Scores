@@ -39,9 +39,12 @@ def generate_graphs(in_file):
         print('Slowdown done...')
 
     #revenue
-    plt.ylabel("Revenue") 
+    markers = ['o', '.', ',', 'x', '+', 'v', '^', '<', '>', 's', 'd']
+    plt.ylabel("Revenue")
+    i = 0
     for t in tuple_revenue:
-        plt.plot(t[1], t[2], label=t[0])
+        plt.scatter(t[1], t[2], marker=markers[i], label=t[0], alpha=0.3,)
+        i+=1
     name = path_scheduler + 'revenue.png'
     plt.xlabel("Time (seconds)")
     plt.legend(loc='best')
