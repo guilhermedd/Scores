@@ -18,7 +18,7 @@ def getScore(in_file, out_file):
                 revenue += 1 + int(allocated_resources[1]) - int(allocated_resources[0])
             except IndexError:
                 revenue += int(allocated_resources[0]) + 1 if int(allocated_resources[0]) != 0 else 1
-            slowdown = max(current_job['turnaround_time'] / max(current_job['execution_time'], 10), 1)
+            slowdown += max(current_job['turnaround_time'] / max(current_job['execution_time'], 10), 1) / (index_current + 1)
             if slowdown > 1000.0:
                 print(current_job)
 
