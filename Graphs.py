@@ -44,7 +44,7 @@ def generate_graphs(in_file):
     plt.ylabel("Revenue")
     i = 0
     for t in tuple_revenue:
-        plt.scatter(t[1], t[2], marker=markers[i], label=t[0], alpha=0.3,)
+        plt.scatter(t[1], t[2], marker=markers[i], label=t[0], alpha=0.3, s=5)
         i+=1
     name = path_scheduler + 'revenue.png'
     plt.xlabel("Time (seconds)")
@@ -53,7 +53,7 @@ def generate_graphs(in_file):
     plt.clf()
 
     plt.ylabel("Slowdown") 
-    plt.boxplot([k[1] for k in tuple_slowdown], labels=[k[0] for k in tuple_slowdown])
+    plt.boxplot([k[1] for k in tuple_slowdown], labels=[k[0] for k in tuple_slowdown], showfliers=False)
     name = path_scheduler + 'slowdown.png'
     plt.xlabel("Schedulers")
     plt.legend(loc='best')
