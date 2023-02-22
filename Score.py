@@ -23,11 +23,11 @@ def getScore(in_file, out_file):
             if slowdown > 1000.0:
                 print(current_job)
 
-        jobs_json.append({'job id'              : current_job['job_id'], 
-                          'submission time'     : current_job['submission_time'],
+        jobs_json.append({'job_id'              : current_job['job_id'], 
+                          'submission_time'     : current_job['submission_time'],
                           'revenue'             : revenue, 
                           'slowdown'            : slowdown, 
-                          'average slowdown'    : slowdown_average,  
+                          'average_slowdown'    : slowdown_average,  
                           'walltime'            : current_job['turnaround_time']
                           })
 
