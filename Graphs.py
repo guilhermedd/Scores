@@ -57,7 +57,7 @@ def generate_graphs(in_file):
     plt.ylabel("Revenue")
     i = 0
     for t in tuple_revenue:
-        plt.scatter(t[1], t[2], marker=markers[i], label=t[0], alpha=0.3, s=5)
+        plt.scatter(t[1], t[2], marker=markers[i], label=t[0], alpha=0.3, s=2)
         i+=1
     name = path_scheduler + 'revenue.png'
     plt.xlabel("Time (seconds)")

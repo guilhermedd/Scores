@@ -5,12 +5,12 @@ import json
 def getScore(in_file, out_file):
     jobs = list(pd.read_csv(in_file).sort_values(by='submission_time').iterrows())
     jobs_json = []
+    slowdown_average = 0
     for index_current, current_job in jobs:
         if current_job['success'] == 0:
             continue
         revenue = 0
         slowdown = 0
-        slowdown_average = 0
         multi_allocated_resources = current_job['allocated_resources'].split() # 0-15 16-17 => [0-15, 16-17]
         for x in multi_allocated_resources:
             allocated_resources = x.split('-')
