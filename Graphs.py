@@ -50,7 +50,7 @@ def generate_graphs(in_file):
 #            y_axis.append(float(i / len(data)))
             i+=1
         tuple_average_slowdown.append((name, x_axis, y_axis)) 
-        print('Slowdown done...')
+        print('Average Slowdown done...')
 
     #revenue
     markers = ['o', '.', ',', 'x', '+', 'v', '^', '<', '>', 's', 'd']
